@@ -1,12 +1,11 @@
-build
+/build
+/toolchains
 .vscode
 .DS_Store
 wineprefix
 .cache
-wine
 .local
 .config
-toolchains
 build-local.txt
 *.cso
 *.ll
